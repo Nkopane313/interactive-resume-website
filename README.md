@@ -23,7 +23,7 @@ A modern HTML + TailwindCSS resume website hosted securely using AWS services wi
 ## 🚀 Features
 
 - Clean, responsive resume page using HTML + TailwindCSS
-- Custom domain (e.g., `resume.nkopane.com`)
+- Custom domain (e.g., `[resume.nkopane.com](https://tinyurl.com/4c4wtt6d)`)
 - Deployed with HTTPS via CloudFront + S3
 - Global CDN with caching + fast load times
 
