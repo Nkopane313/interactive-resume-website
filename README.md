@@ -23,7 +23,7 @@ A modern HTML + TailwindCSS resume website hosted securely using AWS services wi
 ## 🚀 Features
 
 - Clean, responsive resume page using HTML + TailwindCSS
-- Custom domain (e.g., `[resume.nkopane.com](https://tinyurl.com/4c4wtt6d)`)
+- Custom domain `https://tinyurl.com/4c4wtt6d`
 - Deployed with HTTPS via CloudFront + S3
 - Global CDN with caching + fast load times
 
@@ -42,7 +42,8 @@ A modern HTML + TailwindCSS resume website hosted securely using AWS services wi
 
 ## 🖼️ Screenshot
 
-_Add screenshot here if you want_
+![image](https://github.com/user-attachments/assets/ee140fe9-ee18-4927-8efd-f0992b8e406a)
+
 
 ---
 
@@ -53,6 +54,3 @@ _Add screenshot here if you want_
 - `assets/` – Profile images and icons (AWS, GitHub, etc.)
 
 ---
-
-## 📁 Folder Structure
-
